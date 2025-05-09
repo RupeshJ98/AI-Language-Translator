@@ -2,47 +2,47 @@
 📌 Project Title
 AI-Powered Language Translator & Learning Assistant
 
-🔍 Problem Statement
+# 🔍 Problem Statement
 Real-time translation apps exist, but most are focused only on basic input/output. This app simulates a smart voice assistant that not only translates, but also helps the user learn the target language.
 
-🧠 Key Features
-Real-time voice input & transcription
+# 🧠 Key Features
+-Real-time voice input & transcription
 
-Multilingual translation with Google Translate
+-Multilingual translation with Google Translate
 
-Text-to-speech playback using gTTS
+-Text-to-speech playback using gTTS
 
-Word-by-word learning mode
+-Word-by-word learning mode
 
-Pronunciation display
+-Pronunciation display
 
-Fully built in Python with Streamlit
+-Fully built in Python with Streamlit
 
-🛠️ Tech Stack
-Python, Streamlit
+# 🛠️ Tech Stack
+-Python, Streamlit
 
-speech_recognition, googletrans, gTTS, base64
+-speech_recognition, googletrans, gTTS, base64
 
-Fallbacks handled with error catching
+-Fallbacks handled with error catching
 
-(Optional) Whisper, TTS, or DB for extended versions
+-(Optional) Whisper, TTS, or DB for extended versions
 
-💡 Lessons Learned
-Working with APIs for voice and translation
+# 💡 Lessons Learned
+-Working with APIs for voice and translation
 
-Structuring an interactive Streamlit app
+-Structuring an interactive Streamlit app
 
-Managing session state and dynamic UI updates
+-Managing session state and dynamic UI updates
 
-Handling multilingual text and user-friendly design
+-Handling multilingual text and user-friendly design
 
-🚀 Future Improvements
-Flashcard-style vocab quizzes
+# 🚀 Future Improvements
+-Flashcard-style vocab quizzes
 
-Offline support with Whisper and local TTS
+-Offline support with Whisper and local TTS
 
-Saving vocab list as CSV or PDF
+-Saving vocab list as CSV or PDF
 
-Multiple speaker modes (interpreter style)
+-Multiple speaker modes (interpreter style)
 
-Deployment via Streamlit Cloud or Hugging Face Spaces
+-Deployment via Streamlit Cloud or Hugging Face Spaces
