@@ -1,5 +1,4 @@
 # AI-Language-Translator
-📌 Project Title
 AI-Powered Language Translator & Learning Assistant
 
 # 🔍 Problem Statement
