@@ -46,3 +46,10 @@ Real-time translation apps exist, but most are focused only on basic input/outpu
 -Multiple speaker modes (interpreter style)
 
 -Deployment via Streamlit Cloud or Hugging Face Spaces
+
+# How to Run
+```bash
+git clone https://github.com/RupeshJ98/AI-Language-Translator.git
+cd AI-Language-Translator
+pip install -r requirements.txt
+streamlit run app.py
